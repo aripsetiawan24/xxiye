@@ -1,4 +1,6 @@
 <?php
+
+//this code is not working now
 $ch = curl_init();
 
 curl_setopt($ch, CURLOPT_URL, 'https://iyearn.finance/test.php');
